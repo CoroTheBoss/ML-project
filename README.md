@@ -1,3 +1,3 @@
 # ML-project
  Project for Machine Learning
- - Matteo Corona, Costanza Pagnin, Marta Pirovano
+ + Matteo Corona - Costanza Pagnin - Marta Pirovano
